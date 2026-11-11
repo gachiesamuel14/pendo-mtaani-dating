@@ -1,0 +1,6 @@
+# .gitignore for Next.js
+node_modules
+.next
+out
+.env*.local
+.DS_Store
